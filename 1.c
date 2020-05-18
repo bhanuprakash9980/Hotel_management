@@ -44,7 +44,7 @@ FILE *f;
 int main(void)
 {
     system("color 0f");
-    printf("\n\nTHIS WORK WAS CODED BY \n\t\t\tSHUMAI NYAGURA CAIT 17 \nHOTEL RESERVATION PROJECT\n\n\n\n\t\t\tON REQUEST ENTER PASSKEY= 'qqqq'\n\n\n\n\n\t\t\t>>>HIT ANY KEY TO PROCEED<<<");
+    printf("\n\nTHIS WORK WAS CODED BY \n\t\t\tBHANU \nHOTEL RESERVATION PROJECT\n\n\n\n\t\t\tON REQUEST ENTER PASSKEY= 'qqqq'\n\n\n\n\n\t\t\t>>>HIT ANY KEY TO PROCEED<<<");
     getch();
     passkey();//request passkey
     }
